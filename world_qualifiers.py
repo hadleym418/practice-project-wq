@@ -29,7 +29,7 @@ def getNumDancers():
     # return n
     
 
-# # This function checks whether the user input is an integer, throws an error and promts the user if not
+# # This function checks whether the user input is an integer, throws an error and promts the user otherwise
 # def checkInput(input): 
 #     try:
 #         n = int(input)
